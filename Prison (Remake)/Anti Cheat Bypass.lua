@@ -4,7 +4,7 @@ local DetectedMethods = {
    "ClearAllChildren";
 }
 
-local Rep game:GetService("ReplicatedStorage")
+local Rep = game:GetService("ReplicatedStorage")
 local OldIndex = nil
 
 OldIndex = hookmetamethod(game, "__index", function(Self, Key)
