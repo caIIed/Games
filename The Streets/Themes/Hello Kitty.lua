@@ -319,7 +319,7 @@ task.spawn(function()
 end)
 -----------------------------------------------------------------
 
-
+-- Dont Remove This Notification. --
 -- \|/ Notification \|/ --------------------------------------------------------------------------------------------------
 local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/caIIings/Linoria-Rewrite/main/Library.lua'))()
 Library:Notify('\"Hello Kitty\" Theme Loaded! | Made By: call#0001')
