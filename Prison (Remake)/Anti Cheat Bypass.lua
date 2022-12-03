@@ -8,7 +8,7 @@ local Rep = game:GetService("ReplicatedStorage")
 local OldIndex = nil
 
 OldIndex = hookmetamethod(game, '__index', function(Self, Key)
-    if not checkcaller() and Self == Rep and Key == 'iiii'" and Key == 'lIIl' and Key == '17136949562f245c6041' then
+    if not checkcaller() and Self == Rep and Key == 'iiii' and Key == 'lIIl' and Key == '17136949562f245c6041' then
         return wait(9e9)
     end
 
