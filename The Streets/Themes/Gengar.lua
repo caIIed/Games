@@ -321,5 +321,5 @@ end)
 -- \|/ Notification \|/ --------------------------------------------------------------------------------------------------
 local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/caIIings/Linoria-Rewrite/main/Library.lua'))()
 Library.AccentColor = Color3.fromRGB(66, 3, 255)
-Library:Notify('\"Hello Kitty\" Theme Loaded! | Made By: call#0001')
+Library:Notify('\"Gengar\" Theme Loaded! | Made By: call#0001')
 --------------------------------------------------------------------------------------------------------------------------
